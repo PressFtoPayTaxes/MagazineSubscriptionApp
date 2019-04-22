@@ -1,0 +1,6 @@
+C:\Users\СкоропадИг.CORP\source\repos\MagazineSubscriptionApp\MagazineSubscriptionApp.Models\bin\Debug\MagazineSubscriptionApp.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\MagazineSubscriptionApp\MagazineSubscriptionApp.Models\bin\Debug\MagazineSubscriptionApp.Models.pdb
+C:\Users\СкоропадИг.CORP\source\repos\MagazineSubscriptionApp\MagazineSubscriptionApp.Models\obj\Debug\MagazineSubscriptionApp.Models.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\MagazineSubscriptionApp\MagazineSubscriptionApp.Models\obj\Debug\MagazineSubscriptionApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\MagazineSubscriptionApp\MagazineSubscriptionApp.Models\obj\Debug\MagazineSubscriptionApp.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\MagazineSubscriptionApp\MagazineSubscriptionApp.Models\obj\Debug\MagazineSubscriptionApp.Models.pdb
